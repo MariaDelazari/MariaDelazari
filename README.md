@@ -106,7 +106,7 @@ Stripe • PostgreSQL • Firebase
       width="120"
       src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-delazari-08b10a367">
+  <a href="https://www.linkedin.com/in/maria-delazari">
     <img 
       width="120";
       src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
